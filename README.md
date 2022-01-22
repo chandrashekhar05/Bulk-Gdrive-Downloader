@@ -4,11 +4,15 @@ This Python Script helps you to download **Public File(s)** from Google Drive. I
 ## Installation
 Clone Repo:
 
-`git clone https://github.com/chandrashekhar05/Bulk-Gdrive-Downloader.git`
+```sh
+git clone https://github.com/chandrashekhar05/Bulk-Gdrive-Downloader.git
+```
 
 Install [gdown] by:
 
-`pip install gdown`
+```sh
+pip install gdown
+```
 
 ## How to Use
 
@@ -18,9 +22,13 @@ Install [gdown] by:
 
 3. Run Script in Terminal/Command Prompt
 
-    `cd Bulk-Gdrive-Downloader`
+    ```sh 
+    cd Bulk-Gdrive-Downloader
+    ```
 
-    `python3 Gdrive-Downloader.py`
+    ```sh
+    python3 Gdrive-Downloader.py
+    ```
 
 4. Enter filename(created in step 2) that contains all links or Press `Enter` if all values are default.
 
